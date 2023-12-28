@@ -374,7 +374,7 @@ body {
 }
 
 .products .product-image img {
-  height: 25rem;
+  height: 18rem;
 }
 
 .products .product-content h3 {
@@ -557,6 +557,10 @@ footer .credit a {
   padding: 1rem 1.6rem;
 }
 
+.modal .product-price span {
+  text-decoration: line-through;
+  font-size: 1rem;
+}
 /* Media Queries */
 /* Laptop */
 @media (max-width: 1366px) {
