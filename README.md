@@ -1,3 +1,3 @@
 ## Coffe Shop website
 
-### [Live Site]([reyhanfardedy.github.io/coffe-shop/])
+### [Live Site](https://reyhanfardedy.github.io/coffe-shop/)
