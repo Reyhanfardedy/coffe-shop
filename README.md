@@ -1,3 +1,3 @@
 ## Coffe Shop website
 
-### [Live Site](https://jsmasterypro.com)
+### [Live Site](reyhanfardedy.github.io/coffe-shop/)
